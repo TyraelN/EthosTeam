@@ -1,0 +1,4 @@
+name: EthosTeam
+version: '${project.version}'
+main: de.ethosteam.EthosTeam
+api-version: 1.19
